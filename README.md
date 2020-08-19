@@ -61,12 +61,11 @@ https://res.cloudinary.com/dmkqpqvqr/image/upload/v1597773584/eb47e07ef83e4bc9a3
 * Pull Data from API request
 * Render cat image
 * Display each cat image in a responsive grid layout
-* Give rendered cat image a expand animation when hover over
-* Display facts about cat
-* Show learn more button 
+* Display facts about cat 
 
 **Post-MVP**
 * Add animation to title
+* Create a anchor tag for the link to more cat info 
 ## Project Schedule
 |       Day     |                Deliverable              |    Status   |
 | --------------|:----------------------------------------|:------------|
@@ -79,12 +78,12 @@ https://res.cloudinary.com/dmkqpqvqr/image/upload/v1597773584/eb47e07ef83e4bc9a3
 ## Timeframe
 |Component      |Priority     |Estimated Time     |Time Invested      |Actual Time      |
 | --------------|:------------|:------------------|:------------------|:----------------|
-|HTML Structure | High        | 2 Hours           |                   |                 |
-|HTML Structure Mobile | High | 2 hours           |                   |                 |
-|CSS Basic      | High        | 1 Hour            |                   |                 |
-|CSS Basic Mobile | High      | 1 Hour            |                   |                 |
-|CSS Advance    | Low         | 30 mins           |                   |                 |
-|API Integration| Medium      | 20 mins           |                   |                 |
-|Creating Buttons | Low       | 10 mins           |                   |                 |
-|CSS Styling Effects (colors, responsive media queries) | Medium      |  1 Hour         |             |               |
+|HTML Structure | High        | 3 Hours           |                   |                 |
+|HTML Structure Mobile | High | 3 hours           |                   |                 |
+|CSS Basic      | High        | 2.5 Hours            |                   |                 |
+|CSS Basic Mobile | High      | 3 Hours           |                   |                 |
+|CSS Advance    | Low         | 2.5 hours           |                   |                 |
+|API Integration| Medium      | 3 hours           |                   |                 |
+|Creating Buttons | Low       | 2.5 hours           |                   |                 |
+|CSS Styling Effects (colors, responsive media queries) | Medium      |  3 Hours        |             |               |
 
