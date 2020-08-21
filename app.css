@@ -16,6 +16,18 @@ body
     margin-bottom: -45px;
 }
 
+#name
+{
+    margin-left: 28%;
+    font-size: 3rem;
+    background-color: black;
+    color: white;
+    background-position: center;
+    margin-right: 28%;
+    margin-bottom: -45px;
+    text-align: center;
+}
+
 .catImage
 {
     width: 300px;
@@ -83,7 +95,9 @@ body
     color: white;
     transform: rotateY(180deg);
   }
-
+footer{
+  margin-top: 200px;
+}
   @media screen and (max-width: 600px)
   {
     body 
@@ -92,7 +106,7 @@ body
       height: 100%;
     }
 
-    #title
+    .title
     {
       font-size: 2.3rem;
     }
@@ -139,3 +153,4 @@ body
       align-items: end;
     }
   }
+  
