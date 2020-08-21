@@ -69,21 +69,19 @@ https://res.cloudinary.com/dmkqpqvqr/image/upload/v1597773584/eb47e07ef83e4bc9a3
 ## Project Schedule
 |       Day     |                Deliverable              |    Status   |
 | --------------|:----------------------------------------|:------------|
-|Tuesday,08/18  |Create Project proposal and get approval |             |
-|Wednesday,08/19|App Structure (HTML & CSS)               |             |
-|Thursday,08/20 |Request API & fetch specific data from api  |             |
-|Friday, 08/21  |Present Project                          |             |
+|Tuesday,08/18  |Create Project proposal and get approval | Completed            |
+|Wednesday,08/19|App Structure (HTML & CSS)               | Completed            |
+|Thursday,08/20 |Request API & fetch specific data from api  | Completed            |
+|Friday, 08/21  |Present Project                          | Completed            |
 ## Priority Matrix
 ![Screenshot](https://res.cloudinary.com/dmkqpqvqr/image/upload/v1597775854/IMG-1428_k4ee1b.jpg)
 ## Timeframe
 |Component      |Priority     |Estimated Time     |Time Invested      |Actual Time      |
 | --------------|:------------|:------------------|:------------------|:----------------|
-|HTML Structure | High        | 3 Hours           |                   |                 |
-|HTML Structure Mobile | High | 3 hours           |                   |                 |
-|CSS Basic      | High        | 2.5 Hours            |                   |                 |
-|CSS Basic Mobile | High      | 3 Hours           |                   |                 |
-|CSS Advance    | Low         | 2.5 hours           |                   |                 |
-|API Integration| Medium      | 3 hours           |                   |                 |
-|Creating Buttons | Low       | 2.5 hours           |                   |                 |
-|CSS Styling Effects (colors, responsive media queries) | Medium      |  3 Hours        |             |               |
+|HTML Structure | High        | 3 Hours           |                   |  2 hours              |
+|CSS Basic      | High        | 2.5 Hours            |                   | 2 hours                |
+|CSS Basic Mobile | High      | 3 Hours           |                   |    1.5 hours             |
+|CSS Advance    | Low         | 2.5 hours           |                   |   2 hour              |
+|API Integration| Medium      | 3 hours           |                   |   6 hours              |
+|CSS Styling Effects (colors, responsive media queries) | Medium      |  2.5 hours       |             |  2 hours             |
 

@@ -28,10 +28,17 @@ async function getCatsData() {
       back.append(catOrigin);
       back.append(catAge);
       back.append(catTemperament)
+<<<<<<< HEAD
 
       destination.append(back)
 
       i++
+=======
+      
+      destination.append(back)
+      
+      i++               
+>>>>>>> 8bb62584e59fe0bd90a3eeea14dd867af875a761
     }
   }
   catch (error) {
@@ -39,9 +46,13 @@ async function getCatsData() {
   }
 
 }
-
 getCatsData();
 
+<<<<<<< HEAD
+getCatsData();
+
+=======
+>>>>>>> 8bb62584e59fe0bd90a3eeea14dd867af875a761
 
 
 
