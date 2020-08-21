@@ -65,7 +65,7 @@ https://res.cloudinary.com/dmkqpqvqr/image/upload/v1597773584/eb47e07ef83e4bc9a3
 
 **Post-MVP**
 * Add animation to title
-* Create a anchor tag for the link to more cat info 
+
 ## Project Schedule
 |       Day     |                Deliverable              |    Status   |
 | --------------|:----------------------------------------|:------------|
