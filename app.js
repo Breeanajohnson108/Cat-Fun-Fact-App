@@ -29,14 +29,9 @@ async function getCatsData() {
       back.append(catOrigin);
       back.append(catAge); 
       back.append(catTemperament)
-      // back.append(learnMore)
-      console.log(back)
-      // learnMore.onclick = function ()
-      // {
-      //   window.open(data[i].vetstreet_url, "_blank")
-      // };
+      
       destination.append(back)
-      // console.log(destination)
+      
       i++               
     }
   }
@@ -45,39 +40,9 @@ async function getCatsData() {
   }  
 
 }
-
-console.log(getCatsData());
-
+getCatsData();
 
 
 
 
-// if (i == 13) {
-      //   break;
-      // } else if (i <= 12) {
-      //   let getElement = document.getElementsByClassName('flip-card-back');
 
-      //   //let catName = document.createElement('h1').innerHTML(data.name);
-      //   let catName = document.createElement('h1');
-      //   catName.innerHTML = data.name
-      //   console.log(catName)
-      //   getElement.append(catName);
-
-      //   let catOrigin = document.createElement('p').innerHTML = (data.origin);
-      //   getElement.append =(catOrigin);
-
-      //   let catAge = document.createElement('p').innerHTML = (data.age);
-      //   getElement.appendChild(catAge);
-
-      //   let catTemperament = document.createElement('p').innerHTML = (data.temperament);
-      //   getElement.appendChild(catTemperament);
-
-      //   let learnMore = document.createElement('BUTTON').innerHTML = ('Learn More').onclick = function () {
-      //     let a = document.createElement('a');
-      //     a.setAttribute('href', data.wikipedia_url);
-      //   };
-
-      //   getElement.appendChild(learnMore);
-      // } else {
-      //   console.log(error);
-      // }
