@@ -83,6 +83,5 @@ https://res.cloudinary.com/dmkqpqvqr/image/upload/v1597773584/eb47e07ef83e4bc9a3
 |CSS Basic Mobile | High      | 3 Hours           |                   |    1.5 hours             |
 |CSS Advance    | Low         | 2.5 hours           |                   |   2 hour              |
 |API Integration| Medium      | 3 hours           |                   |   6 hours              |
-
 |CSS Styling Effects (colors, responsive media queries) | Medium      |  2.5 Hours        |             |               |
 
